@@ -1,0 +1,109 @@
+.swal-button {
+  color: rgb(90, 90, 90);
+  background-color: rgb(224, 225, 226);
+}
+
+.hidden.menu {
+  display: none;
+}
+
+img {
+  margin: 0 auto;
+}
+#me {
+  margin: 0 auto;
+}
+#my_name {
+  margin: 0;
+}
+#name_hr {
+  margin-top: 8px;
+  margin-bottom: 1.5em;
+}
+
+.landing-image {
+  background-image: url("https://source.unsplash.com/f7YQo-eYHdM") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.masthead.segment {
+  min-height: 250px;
+  padding: 1em 0em;
+}
+.masthead h1.ui.header {
+  margin-top: 3em;
+  margin-bottom: 0em;
+  font-size: 4em;
+  font-weight: normal;
+}
+.masthead h2 {
+  font-size: 1.7em;
+  font-weight: normal;
+}
+
+.ui.left.sidebar {
+  width: 165px;
+}
+
+.ui.vertical.stripe {
+  padding: 4em 0em;
+}
+.ui.vertical.stripe h3 {
+  font-size: 1.5em;
+}
+.ui.vertical.stripe .button + h3,
+.ui.vertical.stripe p + h3 {
+  margin-top: 3em;
+}
+.ui.vertical.stripe .floated.image {
+  clear: both;
+}
+.ui.vertical.stripe p {
+  font-size: 1.1em;
+  margin: 0.25em;
+}
+.ui.vertical.stripe .horizontal.divider {
+  margin: 3em 0em;
+}
+
+.footer.segment {
+  padding: 2em 0em;
+}
+
+.social_media_icon {
+  height: 1em;
+  margin: 0 0.5em;
+}
+
+#standard_menu .toc.item {
+  display: none;
+}
+
+@media only screen and (max-width: 700px) {
+  .ui.fixed.menu {
+    display: none !important;
+  }
+  #standard_menu .item ,
+  #standard_menu .menu {
+    display: none;
+  }
+  #standard_menu .toc.item {
+    display: block;
+  }
+  .masthead.segment {
+    min-height: 250px;
+  }
+  .masthead h1.ui.header {
+    font-size: 4em;
+    margin-top: 1.5em;
+  }
+  .masthead h2 {
+    margin-top: 0.5em;
+    font-size: 1.5em;
+  }
+}
