@@ -78,6 +78,7 @@ img {
 .social_media_icon {
   height: 1em;
   margin: 0 0.5em;
+  padding-bottom: 0.5em;
 }
 
 #standard_menu .toc.item {
