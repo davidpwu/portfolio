@@ -21,13 +21,15 @@ img {
   margin-bottom: 1.5em;
 }
 
+#academic_coursework_button {
+  margin-bottom: 0.5em;
+}
+
 .landing-image {
   background-image: url("https://source.unsplash.com/f7YQo-eYHdM") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
 }
-
-
 
 .title {
   margin-bottom: 0;
