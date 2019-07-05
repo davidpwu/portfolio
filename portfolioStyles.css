@@ -26,7 +26,7 @@ img {
 }
 
 .landing-image {
-  background-image: url("https://source.unsplash.com/f7YQo-eYHdM") !important;
+  background-image: url("background.jpg") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
 }
