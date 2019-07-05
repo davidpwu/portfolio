@@ -31,6 +31,10 @@ img {
   background-size: cover !important;
 }
 
+#following_menu {
+  background-image: url("static/background.jpg");
+}
+
 .title {
   margin-bottom: 0;
 }
