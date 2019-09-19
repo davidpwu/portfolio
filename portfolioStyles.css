@@ -83,6 +83,10 @@ img {
   padding: 2em 0em;
 }
 
+.ui.button {
+  margin-bottom: 3.5px;
+}
+
 .social_media_icon {
   height: 1em;
   margin: 0 0.5em;
