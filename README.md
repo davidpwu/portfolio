@@ -11,4 +11,4 @@ David Wu's website.
 
 ## Try
 
-<a href="https://davidpwu.github.io/portfolio">https://davidpwu.github.io/portfolio</a>
+<a href="https://davidpwu.com">https://davidpwu.com</a>
