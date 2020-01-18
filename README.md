@@ -1,4 +1,4 @@
-# David Wu's Portfolio
+# David Wu's Website
 
 ## Table of Contents
 
@@ -7,7 +7,7 @@
 
 ## Details
 
-David Wu's Portfolio.
+David Wu's website.
 
 ## Try
 
